@@ -1,5 +1,0 @@
-root = true
-
-[*.lua]
-indent_stylua = space
-indent_size = 2
